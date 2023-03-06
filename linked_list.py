@@ -10,7 +10,6 @@
 print('-----------------------------------------------')
 print('--LINKED LIST PROGRAM ON HOW ITS WORKS--')
 print('-----------------------------------------------')
-
 IList=['First','Second','Third']
 print('First we init...:',IList)
 
